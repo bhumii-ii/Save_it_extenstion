@@ -1,0 +1,25 @@
+body{
+padding: 10px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+background-color: white;
+min-width: 400px;
+}
+button{
+    background-color: green;
+    color: white;
+    font-weight: 200;
+    margin-top: 10px;
+    border: 1px solid green;
+
+}
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#delete-btn
+{
+    background-color: white;
+    color: green;
+}
